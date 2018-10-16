@@ -1,0 +1,2 @@
+# BCI
+EMOTIV-controlled device
